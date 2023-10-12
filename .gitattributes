@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.расширение_файла filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
